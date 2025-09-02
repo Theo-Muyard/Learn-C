@@ -9,16 +9,16 @@ But all commentary is in **english**, use [Deepl](www.deepl.com) and [Wordrefere
 
 ## All chapters...
 
-| Chapter | State |
-| --- | --- |
-| 1 [1.1 -> 1.24] | In progress.. (2 left) |
-| 2 [2.1 -> 2.10] | Not done |
-| 3 [3.1 -> 3.6] | Not done |
-| 4 [4.1 -> 4.14] | Not done |
-| 5 [5.1 -> 5.20] | Not done |
-| 6 [6.1 -> 6.6] | Not done |
-| 7 [7.1 -> 7.9] | Not done |
-| 8 [8.1 -> 8.8] | Not done |
+| Chapter | Exercises | State |
+| --- | --- | --- |
+| 1 | 1.01 to 1.24 | In progress.. (2 left) |
+| 2 | 2.01 to 2.10 | Not done |
+| 3 | 3.01 to 3.06 | Not done |
+| 4 | 4.01 to 4.14 | Not done |
+| 5 | 5.01 to 5.20 | Not done |
+| 6 | 6.01 to 6.06 | Not done |
+| 7 | 7.01 to 7.09 | Not done |
+| 8 | 8.01 to 8.08 | Not done |
 
 > [!TIP]
 > Do the exercises yourself by following the instructions. If you can't do them, look at the solutions provided here, but don't copy them. It's > by coding that you become a coder... at least, I think that's how the saying goes.
