@@ -1,6 +1,6 @@
 # Chapter 1
 
-[!TIP]
+> [!TIP]
 > Tip #1: Do it yourself, it will make you better.
 
 ## French translation
