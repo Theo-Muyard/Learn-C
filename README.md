@@ -1,5 +1,5 @@
 # Learn C
-This repository contains *many* exercises, at beginner to confirmed (I mean personally).
+This repository contains *many* exercises, at beginner to confirmed (I personally think).
 All exercises come from the book **"The language C"** by Brian W.KERNIGHAN & Dennis M.RITCHIE.
 The exercises will be translated in two languages : French & English.
 But all commentary is in **english**, use [Deepl](www.deepl.com) and [Wordreference](www.wordreference.com).
