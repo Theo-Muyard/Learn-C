@@ -8,4 +8,5 @@ int	min(int c)
 int	main()
 {
 	printf("%c\n", min('b'));
+	return (0);
 }

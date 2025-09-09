@@ -18,4 +18,5 @@ int	main()
 	unsigned x = 0b10101100;
 
 	printf("%d\n", count_bits(x));
+	return (0);
 }

@@ -21,5 +21,5 @@ But all commentary is in **english**, use [Deepl](www.deepl.com) and [Wordrefere
 | 8 | 8.01 to 8.08 | ❌️ Not done |
 
 > [!TIP]
-> Do the exercises yourself by following the instructions. If you can't do them, look at the solutions provided here, but don't copy them. It's > by coding that you become a coder... at least, I think that's how the saying goes.
+> Do the exercises yourself by following the instructions. If you can't do them, look at the solutions provided here, but don't copy them. It's by coding that you become a coder... at least, I think that's how the saying goes.
 > Good luck, everyone! May the C be with you.

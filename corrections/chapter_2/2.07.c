@@ -16,5 +16,5 @@ int			main()
 
 	unsigned result = reverse(x, p, n);
 	printf("Result: %u (binary: %08b)\n", result, result);
-	return 0;
+	return (0);
 }
