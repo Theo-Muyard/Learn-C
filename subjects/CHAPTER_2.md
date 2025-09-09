@@ -8,7 +8,7 @@
 | Exercise | Subject |
 | --- | --- |
 | 2.01 | Ecrivez un programme qui détermine les valeurs limites des variables de type `char, int & long`, dans les cas `signed` et `unsigned`, vous afficherez les valeurs que donnent les fichiers d'en-tête standart, puis vous les calculerez directement. |
-| 2.02 | Ecrivez une boucle équivalente à la boucle `for` ci-dessus sans utiliser `&&` ni `||`. |
+| 2.02 | Ecrivez une boucle équivalente à la boucle `for` ci-dessus sans utiliser `&&` ni `\|\|`. |
 | 2.03 | Ecrivez la fonctin `htoi(s)`, qui convertit une chaîne de chiffres hexadécimaux (y compris un eventuel 0x ou 0X) en sa valeur entière. Les chiffres autorisés sont 0 à 9, a à f, et A à F. |
 | 2.04 | Ecrivez une autre version de `tasser(s1,s2)` qui supprime tous les caractères de s1 qui figurent aussi dans s2. |
 | 2.05 | Ecrivez la fonction `ou(s1,s2)` qui retourne la première position de la chaine s1 qui contient un caractère quelconque de la chaîne s2. |
@@ -23,7 +23,7 @@
 | Exercise | Subject |
 | --- | --- |
 | 2.01 | Write a program that determines the limit values of variables of type `char, int & long`, in the cases `signed` and `unsigned`. Display the values given in the standard header files, then calculate them directly. |
-| 2.02 | Write a loop equivalent to the `for` loop above without using `&&` or `||`. |
+| 2.02 | Write a loop equivalent to the `for` loop above without using `&&` or `\|\|`. |
 | 2.03 | Write the function `htoi(s)`, which converts a string of hexadecimal digits (including any 0x or 0X) to its integer value. The allowed digits are 0 to 9, a to f, and A to F. |
 | 2.04 | Write another version of `tasser(s1,s2)` that removes all characters from s1 that also appear in s2. |
 | 2.05 | Write the function `ou(s1,s2)` that returns the first position in the string s1 that contains any character from the string s2. |
