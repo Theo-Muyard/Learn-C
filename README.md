@@ -13,7 +13,7 @@ But all commentary is in **english**, use [Deepl](www.deepl.com) and [Wordrefere
 | --- | --- | --- |
 | 1 | 1.01 to 1.24 | ➖️ In progress.. (2 left) |
 | 2 | 2.01 to 2.10 | ✅️ Done |
-| 3 | 3.01 to 3.06 | ❌️ Not done |
+| 3 | 3.01 to 3.06 | ✅️ Done |
 | 4 | 4.01 to 4.14 | ❌️ Not done |
 | 5 | 5.01 to 5.20 | ❌️ Not done |
 | 6 | 6.01 to 6.06 | ❌️ Not done |
