@@ -1,7 +1,7 @@
-# Chapter 2
+# Chapter 3
 
 > [!TIP]
-> Tip #3: Practice makes perfect, so get coding!.
+> Tip #3: Practice makes perfect, so get coding!
 
 ## French translation
 
